@@ -1,3 +1,7 @@
 # MEUS-PROJETOS
 
-Meu nome é Gabriel Fiochi dos Santos, sou programador freelancer com mais de 1 ano de experiência no desenvolvimento de soluções web. Ao longo da minha trajetória, venho criando projetos utilizando HTML5, CSS3, PHP, PHP Orientado a Objetos, MySQL e Laravel, sempre buscando código limpo, organizado e eficiente. Tenho foco em transformar ideias em sistemas funcionais, responsivos e bem estruturados, atendendo às necessidades de cada projeto com profissionalismo e dedicação.
+Olá! Eu sou Gabriel Fiochi dos Santos, desenvolvedor freelancer apaixonado por tecnologia e criação de soluções web focado em Back-end. Com mais de 1 ano de experiência em programação, venho desenvolvendo projetos que unem design, performance e funcionalidade.
+
+Trabalho com HTML5, CSS3, PHP, PHP Orientado a Objetos, MySQL e Laravel, criando sistemas organizados, responsivos e pensados para oferecer a melhor experiência ao usuário. Cada projeto aqui representa um desafio superado, uma ideia transformada em código e mais um passo na minha evolução como desenvolvedor. 🚀
+
+Fique à vontade para explorar meus projetos e conhecer um pouco mais do meu trabalho!
